@@ -7,7 +7,7 @@ package ec.edu.ister.modelo;
 
 /**
  *
- * @author BRENDA TAYUPANTA
+ * @author KEVIN TORRES
  */
 public class Punto {
 
