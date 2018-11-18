@@ -9,10 +9,6 @@ package ec.edu.ister.controlador;
 import ec.edu.ister.modelo.Punto;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author BRENDA TAYUPANTA
- */
 public class ClaseMain {
     public static void main(String[] args) {
         //IMPRIMIR UN PUNTO ENVIADO ATRAVEZ DEL CONSTRUCTOR "DATO QUEMADO"
