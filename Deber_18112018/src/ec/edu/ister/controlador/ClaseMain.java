@@ -11,10 +11,10 @@ import javax.swing.JOptionPane;
 
 public class ClaseMain {
     public static void main(String[] args) {
-        //IMPRIMIR UN PUNTO ENVIADO ATRAVEZ DEL CONSTRUCTOR "DATO QUEMADO"
+        //IMPRIMIR UN PUNTO DE X ;Y
         Punto OB_punto = new Punto(7, 5);
         OB_punto.imprimirPunto();
-        //IMPRIMIR UN PUNTO 
+       
         try {
             int ejex;
             int ejey;
